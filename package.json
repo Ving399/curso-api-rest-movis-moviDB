@@ -1,0 +1,19 @@
+{
+  "name": "curso-api-rest-movis-movidb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ving399/curso-api-rest-movis-moviDB.git"
+  },
+  "author": "@ving399",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ving399/curso-api-rest-movis-moviDB/issues"
+  },
+  "homepage": "https://github.com/Ving399/curso-api-rest-movis-moviDB#readme",
+  "description": ""
+}
